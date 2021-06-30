@@ -1,4 +1,4 @@
-#Stanford's CS193p course, Developing Applications for iOS
+# Stanford's CS193p course, Developing Applications for iOS
 
 This repo contains my lecture notes and projects from the course.
 
